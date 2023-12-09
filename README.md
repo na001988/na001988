@@ -14,7 +14,7 @@ With a talent for problem-solving, I excel in resolving IT issues and am continu
 
 • 📈 [Node](https://learn.microsoft.com/api/achievements/share/en-us/RobertoZumba-9714/QCKYJVE5?sharingId=3669528A610C12C2){:target="\_blank"} 
 
-• 🙋‍♂️ ?
+• 🙋‍♂️ [Azure Fundamentals](https://learn.microsoft.com/api/achievements/share/en-us/RobertoZumba-9714/AS2KVV7E?sharingId=3669528A610C12C2) [Azure Services](https://learn.microsoft.com/api/achievements/share/en-us/RobertoZumba-9714/ELDTX5PX?sharingId=3669528A610C12C2){:target="\_blank"}
 
 • 🛠️ ?
 
