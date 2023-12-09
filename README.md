@@ -12,7 +12,7 @@ With a talent for problem-solving, I excel in resolving IT issues and am continu
 
 ### Achievements
 
-• 📈 ?
+• 📈 Node (https://learn.microsoft.com/api/achievements/share/en-us/RobertoZumba-9714/QCKYJVE5?sharingId=3669528A610C12C2)
 
 • 🙋‍♂️ ?
 
@@ -24,10 +24,7 @@ With a talent for problem-solving, I excel in resolving IT issues and am continu
 [Work Experience](/experience/README.MD)
 
 
-### Certifications
-- [Dynatrace Associate](https://www.credly.com/badges/5461b72b-82ec-4fec-b779-35eb078f5ceb/linked_in?t=s0sy54){:target="\_blank"} 
-- [Microsoft - Github Actions](https://learn.microsoft.com/en-gb/training/achievements/learn.github.github-actions-automate-tasks.badge?username=AlejandroSG-3988&sharingId=7539A66B782C7D61){:target="\_blank"}
-
 ### Interest
 
-?
+I am deeply passionate about automation frameworks and software development due to their transformative impact on efficiency, reliability, and innovation within the realm of technology. 
+Automation frameworks serve as the backbone for streamlining and enhancing the software development process, enabling organizations to deliver high-quality products with greater speed and precision.
