@@ -18,7 +18,11 @@ With a talent for problem-solving, I excel in resolving IT issues and am continu
 
 • 🛠️ [SQL](https://learn.microsoft.com/api/achievements/share/en-us/RobertoZumba-9714/VKPSALVM?sharingId=3669528A610C12C2){:target="\_blank"} 
 
-• 👁️ ?
+• 👁️ [API Testing Cerfification](/achievements/API-Testing.pdf)
+
+• 👁️ [DB Testing Certification](/achievements/DB.pdf)
+
+• 👁️ [Functional Testing Certification](/achievements/Functional-Testing.pdf)
 
 
 [Work Experience](/experience/README.MD)
