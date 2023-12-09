@@ -1,4 +1,4 @@
-<img src="img/roberto.jpeg" alt="roberto" height="100px"/>
+<img src="img/roberto.jpg" alt="roberto" height="100px"/>
 
 
 🛠️ Systems Engineer: 🗣️ Quality Assurance: Senior Test Analyst
