@@ -12,11 +12,11 @@ With a talent for problem-solving, I excel in resolving IT issues and am continu
 
 ### Achievements
 
-• 📈 [Node](https://learn.microsoft.com/api/achievements/share/en-us/RobertoZumba-9714/QCKYJVE5?sharingId=3669528A610C12C2){:target="\_blank"} 
+• 📈 [Node Escentials Training](https://learn.microsoft.com/api/achievements/share/en-us/RobertoZumba-9714/QCKYJVE5?sharingId=3669528A610C12C2){:target="\_blank"} 
 
 • 🙋‍♂️ [Azure Fundamentals](https://learn.microsoft.com/api/achievements/share/en-us/RobertoZumba-9714/AS2KVV7E?sharingId=3669528A610C12C2) [Azure Services](https://learn.microsoft.com/api/achievements/share/en-us/RobertoZumba-9714/ELDTX5PX?sharingId=3669528A610C12C2){:target="\_blank"}
 
-• 🛠️ [SQL](https://learn.microsoft.com/api/achievements/share/en-us/RobertoZumba-9714/VKPSALVM?sharingId=3669528A610C12C2){:target="\_blank"} 
+• 🛠️ [SQL Escentials Training](https://learn.microsoft.com/api/achievements/share/en-us/RobertoZumba-9714/VKPSALVM?sharingId=3669528A610C12C2){:target="\_blank"} 
 
 • 👁️ [API Testing Cerfification](/achievements/API-Testing.pdf)
 
@@ -27,7 +27,10 @@ With a talent for problem-solving, I excel in resolving IT issues and am continu
 
 [Work Experience](/experience/README.MD)
 
+### Certifications
 
+- [Diploma in Software Development](achievements/DSD.pdf){:target="\_blank"}
+  
 ### Interest
 
 I am deeply passionate about automation frameworks and software development due to their transformative impact on efficiency, reliability, and innovation within the realm of technology. 
