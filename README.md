@@ -25,7 +25,7 @@ With a talent for problem-solving, I excel in resolving IT issues and am continu
 • 👁️ [Functional Testing Certification](/achievements/Functional-Testing.pdf)
 
 
-[Work Experience](/experience/README.MD)
+[Work Experience](/experience/README.md)
 
 ### Certifications
 
