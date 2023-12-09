@@ -30,7 +30,7 @@ With a talent for problem-solving, I excel in resolving IT issues and am continu
 ### Certifications
 
 - [Degree Systems Engineer](/achievements/SE.pdf){:target="\_blank"}
-- 
+  
 - [Diploma in Software Development](/achievements/DSD.pdf){:target="\_blank"}
   
 ### Interest
