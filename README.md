@@ -21,7 +21,7 @@ With a talent for problem-solving, I excel in resolving IT issues and am continu
 • 👁️ ?
 
 
-[Work Experience](/reference/WORKEXPERIENCE.MD)
+[Work Experience](/experience/README.MD)
 
 
 ### Certifications
