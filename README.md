@@ -7,8 +7,9 @@
 
 ### Personal Statement
 
-I possess strong self-motivation and exceptional skills, capable of thriving in both independent and collaborative team environments to achieve successful results. 
-With a talent for problem-solving, I excel in resolving IT issues and am continuously seeking ways to improve processes by incorporating advanced technologies and innovative work approaches.
+For over three years at Australian organizations, I’ve honed my skills in software testing, ensuring the delivery of high-quality products to end-users. 
+I possess extensive skills performing System Testing (Functional – Non-functional) and User Acceptance Testing in different stages from my last project at Toyota Finance Australia, supporting the creation of test cases, and execution of automation scripts for regression. 
+My familiarity with these tools and JIRA has allowed me to automate test cases efficiently, streamline testing processes, and logging -tracking defects effectively. 
 
 ### Achievements
 
@@ -32,6 +33,10 @@ With a talent for problem-solving, I excel in resolving IT issues and am continu
 - [Bachelor in Systems Engineer](/achievements/SE.pdf){:target="\_blank"}
   
 - [Diploma in Software Development](/achievements/DSD.pdf){:target="\_blank"}
+
+### Resume
+
+- [CV](/achievements/RZN.pdf){:target="\_blank"}
   
 ### Interest
 
