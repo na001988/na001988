@@ -5,4 +5,5 @@
 - Applications Developer, [Mi Technologies Pty Ltd](https://www.mitechnologies.com.au/){:target="_blank"} (02/2020 - 06/2020)
 - Test Enginner, [Movistar](https://www.movistar.com.ec/){:target="_blank"} (07/2007 - 05/2014)
 
+
 [Back home](/)
