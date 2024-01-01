@@ -6,4 +6,4 @@
 - Test Enginner, [Movistar](https://www.movistar.com.ec/){:target="_blank"} (08/2007 - 05/2014)
 
 
-[Back home] (/robertozumbanaranjo/)
+[Back home](/)
